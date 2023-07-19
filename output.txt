@@ -1,0 +1,114 @@
+About Us URL: https://www.tutorialspoint.com/about/index.htm
+----------------------------------------------------- 
+----------------------------------------------------- 
+Url[1] : https://www.tutorialspoint.com/favicon.ico
+Url[2] : https://www.tutorialspoint.com/about/index.htm
+Url[3] : https://www.tutorialspoint.com/static/css/purge/style-min.css?v=6.05
+Url[4] : https://www.tutorialspoint.com/static/css/custom.css?v=8.19.7
+Url[5] : https://cdn.rawgit.com/google/code-prettify/master/loader/prettify.css
+Url[6] : https://www.tutorialspoint.com/index.htm
+Url[7] : https://www.tutorialspoint.com/codingground.htm
+Url[8] : https://www.tutorialspoint.com/about/about_careers.htm
+Url[9] : https://www.tutorialspoint.com/whiteboard.htm
+Url[10] : https://www.tutorialspoint.com/online_dev_tools.htm
+Url[11] : https://www.tutorialspoint.com/business/index.asp
+Url[12] : https://www.tutorialspoint.com/market/teach-with-us.jsp
+Url[13] : https://www.facebook.com/tutorialspointindia
+Url[14] : https://www.instagram.com/tutorialspoint_/
+Url[15] : https://twitter.com/tutorialspoint
+Url[16] : https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg
+Url[17] : https://www.linkedin.com/authwall?trk=bf&trkInfo=AQEkqX2eckF__gAAAX-wMwEYvrsjBVbEtWQd4pgEdVSzkL22Nik1KEpY_ECWLKDGc41z8IOZWr2Bb0fvJplT60NPBtSw87J6QCpc7wD4qQ3iU13n6xJtBxME5o05Wmpg5JPm5YY=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Ftutorialspoint
+Url[18] : https://www.tutorialspoint.com/index.htm
+Url[19] : https://www.tutorialspoint.com/academic_tutorials.htm
+Url[20] : https://www.tutorialspoint.com/big_data_tutorials.htm
+Url[21] : https://www.tutorialspoint.com/computer_programming_tutorials.htm
+Url[22] : https://www.tutorialspoint.com/computer_science_tutorials.htm
+Url[23] : https://www.tutorialspoint.com/database_tutorials.htm
+Url[24] : https://www.tutorialspoint.com/devops_tutorials.htm
+Url[25] : https://www.tutorialspoint.com/digital_marketing_tutorials.htm
+Url[26] : https://www.tutorialspoint.com/engineering_tutorials.htm
+Url[27] : https://www.tutorialspoint.com/upsc_ias_exams.htm
+Url[28] : https://www.tutorialspoint.com/famous_monuments.htm
+Url[29] : https://www.tutorialspoint.com/gate_exams_tutorials.htm
+Url[30] : https://www.tutorialspoint.com/latest_technologies.htm
+Url[31] : https://www.tutorialspoint.com/machine_learning_tutorials.htm
+Url[32] : https://www.tutorialspoint.com/mainframe_tutorials.htm
+Url[33] : https://www.tutorialspoint.com/management_tutorials.htm
+Url[34] : https://www.tutorialspoint.com/maths_tutorials.htm
+Url[35] : https://www.tutorialspoint.com/microsoft_technologies_tutorials.htm
+Url[36] : https://www.tutorialspoint.com/misc_tutorials.htm
+Url[37] : https://www.tutorialspoint.com/mobile_development_tutorials.htm
+Url[38] : https://www.tutorialspoint.com/java_technology_tutorials.htm
+Url[39] : https://www.tutorialspoint.com/python_technologies_tutorials.htm
+Url[40] : https://www.tutorialspoint.com/sap_tutorials.htm
+Url[41] : https://www.tutorialspoint.com/scripting_language_tutorials.htm
+Url[42] : https://www.tutorialspoint.com/selected_reading.htm
+Url[43] : https://www.tutorialspoint.com/software_quality_tutorials.htm
+Url[44] : https://www.tutorialspoint.com/soft_skill_tutorials.htm
+Url[45] : https://www.tutorialspoint.com/telecom_tutorials.htm
+Url[46] : https://www.tutorialspoint.com/upsc_ias_exams.htm
+Url[47] : https://www.tutorialspoint.com/web_development_tutorials.htm
+Url[48] : https://www.tutorialspoint.com/sports_tutorials.htm
+Url[49] : https://www.tutorialspoint.com/xml_technologies_tutorials.htm
+Url[50] : https://www.tutorialspoint.com/multi_language_tutorials.htm
+Url[51] : https://www.tutorialspoint.com/questions_and_answers.htm
+Url[52] : https://www.tutorialspoint.com/latest/prime-packs
+Url[53] : https://www.tutorialspoint.com/market/index.asp
+Url[54] : https://www.tutorialspoint.com/latest/ebooks
+Url[55] : https://www.tutorialspoint.com/tutorialslibrary.htm
+Url[56] : https://www.tutorialspoint.com/articles/index.php
+Url[57] : https://www.tutorialspoint.com/market/login.jsp
+Url[58] : https://www.tutorialspoint.com/about/index.htm
+Url[59] : https://www.tutorialspoint.com/about/about_team.htm
+Url[60] : https://www.tutorialspoint.com/about/about_careers.htm
+Url[61] : https://www.tutorialspoint.com/about/about_privacy.htm
+Url[62] : https://www.tutorialspoint.com/about/about_cookies.htm
+Url[63] : https://www.tutorialspoint.com/about/about_terms_of_use.htm
+Url[64] : https://www.tutorialspoint.com/about/return_refund_policy.htm
+Url[65] : https://www.tutorialspoint.com/about/tutorials_writing.htm
+Url[66] : https://www.tutorialspoint.com/about/guidelines_for_freelancers.htm
+Url[67] : https://www.tutorialspoint.com/about/faq.htm
+Url[68] : https://www.tutorialspoint.com/about/about_helping.htm
+Url[69] : https://www.tutorialspoint.com/about/contact_us.htm
+Url[70] : https://www.tutorialspoint.com/upsc_ias_exams.htm
+Url[71] : https://www.tutorialspoint.com/developers_best_practices/index.htm
+Url[72] : https://www.tutorialspoint.com/questions_and_answers.htm
+Url[73] : https://www.tutorialspoint.com/effective_resume_writing.htm
+Url[74] : https://www.tutorialspoint.com/hr_interview_questions/index.htm
+Url[75] : https://www.tutorialspoint.com/computer_glossary.htm
+Url[76] : https://www.tutorialspoint.com/computer_whoiswho.htm
+Url[77] : https://www.tutorialspoint.com/about/index.htm
+Url[78] : https://www.tutorialspoint.com/about/about_team.htm
+Url[79] : https://www.tutorialspoint.com/market/business/subscription.jsp
+Url[80] : https://www.tutorialspoint.com/business/index.asp#demoRequest
+Url[81] : https://www.tutorialspoint.com/index.htm
+Url[82] : https://www.tutorialspoint.com/about/index.htm
+Url[83] : https://www.tutorialspoint.com/about/return_refund_policy.htm
+Url[84] : https://www.tutorialspoint.com/about/about_terms_of_use.htm
+Url[85] : https://www.tutorialspoint.com/about/about_privacy.htm
+Url[86] : https://www.tutorialspoint.com/about/faq.htm
+Url[87] : https://www.tutorialspoint.com/about/contact_us.htm
+Url[88] : https://www.tutorialspoint.com/about/about_cookies.htm
+Url[89] : https://www.tutorialspoint.com/static/images/logo.png?v3
+Url[90] : https://www.tutorialspoint.com/static/images/logo-w.png?v3
+Url[91] : https://www.tutorialspoint.com/about/images/about-mini-logo.jpg
+Url[92] : https://www.tutorialspoint.com/about/images/about.jpg
+Url[93] : https://www.tutorialspoint.com/images/annual-membership-wraps.svg
+Url[94] : https://www.tutorialspoint.com/images/business-banner-wraps.svg
+Url[95] : https://www.tutorialspoint.com/static/images/logo.png?v=9.01
+Url[96] : https://www.tutorialspoint.com/static/images/logo-w.png?v=9.10
+Url[97] : https://bat.bing.com/action/0?ti=97039426&Ver=2&mid=8caf281d-69ee-49d6-8a29-be4368e0e2a2&sid=01a71080266a11eeb3dfa5d5228c8bed&vid=01aa3d90266a11ee9d9ae5a81b6ad907&vids=0&msclkid=N&uach=pv%3D15.0.0&pi=918639831&lg=en-US&sw=1536&sh=864&sc=24&nwd=1&tl=About%20Company%20%7C%20Tutorialspoint&p=https%3A%2F%2Fwww.tutorialspoint.com%2Fhtml%2Fmenu.htm&r=&lt=2085&evt=pageLoad&ifm=1&sv=1&rn=332915
+----------------------------------------------------- 
+----------------------------------------------------- 
+Button[1] : btn-tutorial-toc
+Button[2] : btn-menu-collapse
+Button[3] : btnSearch
+Button[4] : Login
+Button[5] : Previous Page
+Button[6] : Print Page
+Button[7] : Next Page  
+Button[8] : Subscribe Now
+Button[9] : Request a Demo
+----------------------------------------------------- 
+----------------------------------------------------- 
+Input[1] : Search tutorials ...
